@@ -4,11 +4,11 @@ A full-stack web application for creating projects, managing team members, assig
 
 ## Live Demo
 
-Live URL: Coming soon
+Live URL: https://frontend-production-e373.up.railway.app
 
 ## GitHub Repository
 
-Repository URL: [https://github.com/prithvirazz/team-task-manager]
+Repository URL: https://github.com/prithvirazz/team-task-manager
 
 ---
 
