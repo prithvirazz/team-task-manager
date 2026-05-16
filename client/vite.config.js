@@ -6,7 +6,7 @@ export default defineConfig({
   preview: {
     host: "0.0.0.0",
     allowedHosts: [
-      "frontend-production-0b06.up.railway.app"
+      "frontend-production-e373.up.railway.app"
     ],
   },
 });
