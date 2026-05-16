@@ -5,8 +5,6 @@ export default defineConfig({
   plugins: [react()],
   preview: {
     host: "0.0.0.0",
-    allowedHosts: [
-      "frontend-production-e373.up.railway.app"
-    ],
+    allowedHosts: true,
   },
 });
